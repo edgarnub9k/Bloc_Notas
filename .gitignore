@@ -1,0 +1,11 @@
+# Dependencias de Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configuración del sistema
+.DS_Store
+Thumbs.db
+
+.env
