@@ -10,4 +10,4 @@ Este proyecto fue desarrollado utilizando tecnologías web estándar y un entorn
 
 * **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 
-* **Backend / Entorno:** Node.js, Express (`package.json`)
+* **Backend / Entorno:** Node.js, Express (`package.json, pnpm`)
