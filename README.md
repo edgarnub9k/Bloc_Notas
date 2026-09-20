@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologías Utilizadas
 
-Este proyecto fue desarrollado utilizando tecnologías web estándar y un entorno ligero en el backend:
+Este proyecto fue desarrollado utilizando tecnologías web estándar y un entorno ligero en el backend para tener tareas: 
 
 * **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 
